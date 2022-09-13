@@ -11,7 +11,7 @@ Sample:
 
 ![sample](https://user-images.githubusercontent.com/48623077/190018688-cbd5f6d5-8444-48a5-81e8-86c8ccb402cd.png)
 
-In order to run it properly put below files into C:\Windows in order to make screensaver visible to Windows' screensaver manager.
+In order to run it properly put below files into C:\Windows to make screensaver visible to Windows' screensaver manager.
 
 ![image](https://user-images.githubusercontent.com/48623077/190020682-45415720-f468-4ab0-809b-c7f0f5a12cf4.png)
 
