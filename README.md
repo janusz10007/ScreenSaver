@@ -1,7 +1,7 @@
 # ScreenSaver
 ScreenSaver that shows us current time and weather based on our location, quote of the day and notes.
 
-Fully customizable - 12h or 14h time system, location of your choice, colors, change visibility of certain components and find a way that suits you the most.
+Fully customizable - 12h or 14h time system, units, location of your choice, colors, change visibility of certain components and find a way that suits you the most.
 
 Created using Windows.Forms, data gathered from OpenWeather and Zenquotes.io Json APIs.
 
